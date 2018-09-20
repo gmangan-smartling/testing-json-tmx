@@ -3,7 +3,9 @@
 		"translate_paths": {
 			"path": "Strings/*",
 			"key": "Strings/{*}"
-		}
+		},
+		"placeholder_format_custom": ["(%\\{.*?\\})|(\\{.*?\\})"],
+          "variants_enabled" : "true"
 	},
   	"Links": [
     {
