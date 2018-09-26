@@ -506,6 +506,7 @@
     "error_unableFindEmail": "UNABLE TO FIND EMAIL ADDRESS",
     "error_unsupportedDeviceHeader": "START WATCHING",
     "error_updatePayment_primaryButton": "UPDATE PAYMENT DETAILS",
-    "error_changed_for_the_laughs": "translate this but hopefully only this"
+    "error_changed_for_the_laughs": "translate this but hopefully only this",
+	"made_a_change": "Changed this by adding a line.."
   }
 }
