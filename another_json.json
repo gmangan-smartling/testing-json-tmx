@@ -45,8 +45,7 @@
     "freetrial_message_9m": "Your free nine month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
     "freetrial_message_annual": "Kickoff offer! Enjoy DAZN for 12 months plus one month free for %{billingRate}. Cancel anytime within the first month at no cost. Your first payment will be taken on %{billingDate}.Subscription auto-renews annually (except in Quebec). [Change subscription.](/account/payment-plan)",
     "freetrial_message_annual_noOfferSelection": "Kickoff offer! Enjoy DAZN for 12 months plus one month free for %{billingRate}. Cancel anytime within the first month at no cost. Your first payment will be taken on %{billingDate}.Subscription auto-renews annually (except in Quebec).",
-    "freetrial_message_month": "Access top sports for %{billingRate} per month with one month free. You’ll pay monthly in arrears and your first payment will be taken on %{billingDate}. Cancel anytime.  [Change subscription.](/account/payment-plan)",
-    "freetrial_message_month_noOfferSelection": "- Your one month free starts today \n- From %{billingDate}, pay %{billingRate} per month to access top sport events \n- There's no contract, cancel monthly. T&C’s apply."
+    "freetrial_message_month": "Access top sports for %{billingRate} per month with one month free. You’ll pay monthly in arrears and your first payment will be taken on %{billingDate}. Cancel anytime.  [Change subscription.](/account/payment-plan)"
   },
   "Metadata": {
     "ArticlesLastUpdated": "2018-09-23T19:00:54.000Z",
