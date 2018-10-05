@@ -38,11 +38,7 @@
     "freetrial_message_2m": "Your free two month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
     "freetrial_message_3m": "Your free three month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
     "freetrial_message_4m": "Your free four month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
-    "freetrial_message_5m": "Your free five month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
-    "freetrial_message_6m": "Your free six month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
-    "freetrial_message_7m": "Your free seven month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
-    "freetrial_message_8m": "Your free eight month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
-      "adding_to_this": "another key and value"
+    "freetrial_message_5m": "Your free five month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly."
   },
   "Metadata": {
     "ArticlesLastUpdated": "2018-09-23T19:00:54.000Z",
