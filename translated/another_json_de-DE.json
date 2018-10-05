@@ -1,0 +1,63 @@
+{
+  "Links" : [
+  {
+    "Key" : "ContactUs",
+    "Value" : "https://my.dazn.com/contactus/DE-en"
+  },
+
+  {
+    "Key" : "Help",
+    "Value" : "https://my.dazn.com/help/DE-en"
+  },
+
+  {
+    "Key" : "Faq",
+    "Value" : "https://my.dazn.com/help/DE-en/FAQ"
+  },
+
+  {
+    "Key" : "MyAccount",
+    "Value" : "https://my.dazn.com/myaccount"
+  },
+
+  {
+    "Key" : "EditPayment",
+    "Value" : "https://my.dazn.com/ChangePaymentMethod"
+  },
+
+  {
+    "Key" : "Terms",
+    "Value" : "https://my.dazn.com/help/DE-en/terms"
+  },
+
+  {
+    "Key" : "Media",
+    "Value" : "http://media.dazn.com/de/"
+  }],
+  "Strings" : {
+    "freetrial_message" : "Your free month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
+    "freetrial_message_10m" : "Your free ten month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
+    "freetrial_message_11m" : "Your free eleven month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
+    "freetrial_message_12m" : "Your free year starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
+    "freetrial_message_1m" : "Your free month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
+    "freetrial_message_2m" : "Your free two month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
+    "freetrial_message_3m" : "Your free three month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
+    "freetrial_message_4m" : "Your free four month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
+    "freetrial_message_5m" : "Your free five month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
+    "freetrial_message_6m" : "Your free six month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
+    "freetrial_message_7m" : "Your free seven month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
+    "freetrial_message_8m" : "Your free eight month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
+    "freetrial_message_9m" : "Your free nine month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
+    "freetrial_message_annual" : "Kickoff offer! Enjoy DAZN for 12 months plus one month free for %{billingRate}. Cancel anytime within the first month at no cost. Your first payment will be taken on %{billingDate}.Subscription auto-renews annually (except in Quebec). [Change subscription.](/account/payment-plan)",
+    "freetrial_message_annual_noOfferSelection" : "Kickoff offer! Enjoy DAZN for 12 months plus one month free for %{billingRate}. Cancel anytime within the first month at no cost. Your first payment will be taken on %{billingDate}.Subscription auto-renews annually (except in Quebec).",
+    "freetrial_message_month" : "Access top sports for %{billingRate} per month with one month free. You’ll pay monthly in arrears and your first payment will be taken on %{billingDate}. Cancel anytime.  [Change subscription.](/account/payment-plan)",
+    "freetrial_message_month_noOfferSelection" : "- Your one month free starts today \n- From %{billingDate}, pay %{billingRate} per month to access top sport events \n- There's no contract, cancel monthly. T&C’s apply.",
+    "freetrial_message_part1" : "Your free month starts today. From"
+  },
+  "Metadata" : {
+    "ArticlesLastUpdated" : "2018-09-23T19:00:54.000Z",
+    "LabelsLastUpdated" : "2018-09-24T15:00:44.000Z",
+    "LinksLastUpdated" : "2018-05-22T12:59:34.000Z",
+    "BuiltWhen" : "This response was built on 2018-09-24T15:12:26.898Z"
+  }
+}
