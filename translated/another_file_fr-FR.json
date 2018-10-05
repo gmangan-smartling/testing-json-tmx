@@ -43,10 +43,7 @@
     "freetrial_message_2m" : "Votre essai gratuit de deux mois commence aujourd'hui. De %{billingDate}, à payer %{billingRate} par mois. Votre abonnement est résiliable mensuellement.",
     "freetrial_message_3m" : "Votre essai gratuit de trois mois commence aujourd'hui. De %{billingDate}, à payer %{billingRate} par mois. Votre abonnement est résiliable mensuellement.",
     "freetrial_message_4m" : "Votre mois gratuit de quatre procès commence aujourd'hui. De %{billingDate}, à payer %{billingRate} par mois. Votre abonnement est résiliable mensuellement.",
-    "freetrial_message_5m" : "Votre libre essai cinq mois commence aujourd'hui. De %{billingDate}, à payer %{billingRate} par mois. Votre abonnement est résiliable mensuellement.",
-    "freetrial_message_6m" : "Votre essai gratuit de six mois débute aujourd'hui. De %{billingDate}, à payer %{billingRate} par mois. Votre abonnement est résiliable mensuellement.",
-    "freetrial_message_7m" : "Votre libre sept mois d’essai commence aujourd'hui. De %{billingDate}, à payer %{billingRate} par mois. Votre abonnement est résiliable mensuellement.",
-    "freetrial_message_8m" : "Votre libre essai de huit mois débute aujourd'hui. De %{billingDate}, à payer %{billingRate} par mois. Votre abonnement est résiliable mensuellement."
+    "freetrial_message_5m" : "Votre libre essai cinq mois commence aujourd'hui. De %{billingDate}, à payer %{billingRate} par mois. Votre abonnement est résiliable mensuellement."
   },
   "Metadata" : {
     "ArticlesLastUpdated" : "2018-09-23T19:00:54.000Z",
