@@ -30,7 +30,7 @@
     }
   ],
   "Strings": {
-    "freetrial_message": "Your free month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
+    "freetrial_message": "Making a change to this to check what happens. Your free month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
     "freetrial_message_10m": "Your free ten month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
     "freetrial_message_11m": "Your free eleven month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
     "freetrial_message_12m": "Your free year starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
