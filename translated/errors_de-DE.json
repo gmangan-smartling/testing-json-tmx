@@ -77,7 +77,7 @@
   }],
   "Strings" : {
     "error2_10_005_001_body" : "There's a problem connecting to the network. You may have to check your network settings. Please try again.",
-    "error2_10_005_001_header" : "Lost Network Connection",
+    "error2_10_005_001_header" : "Verlorene Netzwerkverbindung, aber auf der Update-Seite haben wir die Datei bearbeitet!",
     "error2_10_005_001_primary" : "OK",
     "error2_11_012_012_body" : "Im Moment besteht ein Problem mit diesem Video.\nBitte folge den Schritten zur Fehlerbehebung in unserer Hilfe.",
     "error2_11_012_012_header" : "Es tut uns leid.",
