@@ -36,7 +36,7 @@
     "freetrial_message_12m": "Your free year starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
     "freetrial_message_1m": "Your free month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
     "freetrial_message_2m": "Your free two month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly.",
-    "freetrial_message_3m": "Your free three month trial starts today. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly."
+    "freetrial_message_3m": "This is modified. From %{billingDate}, pay %{billingRate} per month. Your subscription is cancellable monthly."
   },
   "Metadata": {
     "ArticlesLastUpdated": "2018-09-23T19:00:54.000Z",
