@@ -41,7 +41,7 @@
     "freetrial_message_12m" : "Deine kostenlose einjährige Testphase startet heute. Ab %{billingDate} bezahlst du dann %{billingRate} pro Monat. Du kannst jederzeit monatlich kündigen.",
     "freetrial_message_1m" : "Dein Gratismonat beginnt heute. Ab %{billingDate} bezahlst du dann %{billingRate} pro Monat. Du kannst jederzeit monatlich kündigen.",
     "freetrial_message_2m" : "Deine kostenlose zweimonatige Testphase startet heute. Ab %{billingDate} bezahlst du dann %{billingRate} pro Monat. Du kannst jederzeit monatlich kündigen.",
-    "freetrial_message_3m" : "Deine kostenlose dreimonatige Testphase startet heute. Ab %{billingDate} bezahlst du dann %{billingRate} pro Monat. Du kannst jederzeit monatlich kündigen."
+    "freetrial_message_3m" : "Deine 5-monatige kostenlose Testphase beginnt heute. Ab %{billingDate} bezahlst du dann %{billingRate} pro Monat. Du kannst jederzeit monatlich kündigen."
   },
   "Metadata" : {
     "ArticlesLastUpdated" : "2018-09-23T19:00:54.000Z",
