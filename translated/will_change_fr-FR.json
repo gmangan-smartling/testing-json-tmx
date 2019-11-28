@@ -1,0 +1,49 @@
+{
+  "Links" : [
+  {
+    "Key" : "ContactUs",
+    "Value" : "https://my.dazn.com/contactus/DE-en"
+  },
+
+  {
+    "Key" : "Help",
+    "Value" : "https://my.dazn.com/help/DE-en"
+  },
+
+  {
+    "Key" : "Faq",
+    "Value" : "https://my.dazn.com/help/DE-en/FAQ"
+  },
+
+  {
+    "Key" : "MyAccount",
+    "Value" : "https://my.dazn.com/myaccount"
+  },
+
+  {
+    "Key" : "EditPayment",
+    "Value" : "https://my.dazn.com/ChangePaymentMethod"
+  },
+
+  {
+    "Key" : "Terms",
+    "Value" : "https://my.dazn.com/help/DE-en/terms"
+  },
+
+  {
+    "Key" : "Media",
+    "Value" : "http://media.dazn.com/de/"
+  }],
+  "Strings" : {
+    "key_is_something" : "Juste le texte ici.",
+    "key_is_2" : "Votre essai gratuit de dix mois commence aujourd'hui.",
+    "key_is_3" : "Et maintenant cela.",
+    "key_finally" : "J’ai seront supprimé"
+  },
+  "Metadata" : {
+    "ArticlesLastUpdated" : "2018-09-23T19:00:54.000Z",
+    "LabelsLastUpdated" : "2018-09-24T15:00:44.000Z",
+    "LinksLastUpdated" : "2018-05-22T12:59:34.000Z",
+    "BuiltWhen" : "This response was built on 2018-09-24T15:12:26.898Z"
+  }
+}
