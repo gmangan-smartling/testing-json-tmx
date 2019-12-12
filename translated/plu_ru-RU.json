@@ -1,0 +1,3 @@
+{
+  "account.subscription.duration" : "{duration, plural, one {{duration} месяцев} few {{duration} месяцев} many {{duration} месяцев} other {{duration} месяцев}}"
+}
