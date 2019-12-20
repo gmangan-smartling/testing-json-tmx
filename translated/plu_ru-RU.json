@@ -1,3 +1,4 @@
 {
-  "account.subscription.duration" : "{duration, plural, one {{duration} месяцев} few {{duration} месяцев} many {{duration} месяцев} other {{duration} месяцев}}"
+  "account.subscription.duration" : "{duration, plural, one {{duration} месяцев} few {{duration} месяцев} many {{duration} месяцев} other {{duration} месяцев}}",
+  "key_one_here" : "Проверяем это на Lifesum."
 }

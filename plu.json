@@ -1,3 +1,4 @@
 {
-  "account.subscription.duration": "{duration, plural, one{1 month} other{{duration} months}}"
+  "account.subscription.duration": "{duration, plural, one{1 month} other{{duration} months}}",
+  "key_one_here": "Testing this out for Lifesum."
 }
