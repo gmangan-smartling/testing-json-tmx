@@ -1,0 +1,3 @@
+{
+  "account.subscription.duration": "{duration, plural, one{1 month} other{{duration} months}}"
+}
