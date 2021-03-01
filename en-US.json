@@ -1,0 +1,55 @@
+{
+  "changePasswordSingular_password_length_min": "Be at least $ character long",
+  "changePasswordPlural_password_length_min": "Be at least $ characters long",
+  "changePasswordSingular_password_uppercase_min": "Contain at least $ uppercase character",
+  "changePasswordPlural_password_uppercase_min": "Contain at least $ uppercase characters",
+  "userNotPassedAssessmentPercentage": "You scored ${score}% in your last attempt, this means you did not pass the assessment.",
+  "userPassedAssessmentPercentage": "You scored ${score}% in your last attempt, this means you passed the assessment.",
+  "userNotPassedAssessment": "You scored ${score} in your last attempt, this means you did not pass the assessment.",
+  "learningPlanGettingCloserDeadline": {
+    "one": "Due in {{count}} day",
+    "other": "Due in {{count}} days"
+  },
+  "learningPlanMissedDayDeadline": {
+    "one": "Overdue {{count}} day",
+    "other": "Overdue {{count}} days"
+  },
+  "learningPlanUpComingDeadline": "Due {{date}}",
+  "learningPlanResetThisWeek": {
+    "one": "Resets in {{count}} day",
+    "other": "Resets in {{count}} days"
+  },
+  "learningPlanUpComingReset": "Resets {{date}}",
+  "learningPlanLoadingErrorText": "Couldn't load learning plans",
+  "errorRetry": "Try again",
+  "favourites": "Favourites",
+  "no-favourites": "You do not have any Favourites.",
+  "click-favourites-icon": "Click the Favourites icon on an item to add it to the list.",
+  "person": "Person",
+  "favourites-max-reached-title": "You can't add any more Favourites.",
+  "favourites-max-reach-message": "You can only add up to 100 Favourites. Remove some of your current Favourites and try again.",
+  "show-favourites": "Show Favourites",
+  "favourite_removed": "This favourite has now been removed.",
+  "undo": "Undo",
+  "recommended": "Recommended",
+  "mostRecent": "Most Recent",
+  "today": "Today",
+  "last24Hours": "Last 24 hours",
+  "last7Days": "Last 7 days",
+  "last30Days": "Last 30 days",
+  "noRecommendedContentDescription": "That's all there is for now! We’ll recommend more content as it becomes available.",
+  "from": "From:",
+  "showRecommendationsFrom": "Show recommendations from:",
+  "noRecommendationsForThisPeriod": "No recommendations available for the selected period. Showing recommendations from the {{period}}",
+  "here": "here",
+  "postCommentMultipleCommunitiesHeader": "This post exists in multiple communities, which one would you like your comment to appear in?",
+  "contentTypes": "Content types",
+  "apply": "Apply",
+  "writeAcomment": "Write a comment",
+  "latestComment": "Latest comment",
+  "confirm": "Confirm",
+  "anotherDate": {
+    "one": "Due in {{count}} day",
+    "other": "Due in {{count}} days"
+  }
+}
